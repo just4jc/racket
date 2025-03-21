@@ -1,6 +1,6 @@
 tensorflow==1.11.0
 tensorflow-serving-api==1.11.1
-grpcio==1.16.0
+grpcio==1.58.3
 Flask==1.0.2
 flask-restplus==0.12.1
 Flask-SQLAlchemy==2.3.2
